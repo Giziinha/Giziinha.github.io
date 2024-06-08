@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color:#E8F8F5 ;
+ }
+h1 {
+  font-size: 45px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 20px;
+}
+</style>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<h1><h1 style="background-color:#85C1E9;">Os 5 Melhores Resorts do Brasil</h1>
+</header>
+<nav>
+<a href ="#sobre">Destinos</a>
+<a href ="#Japaratinga">Resorts</a>
+<a href ="#Quem nós somos?">Quem nós somos?</a>
+</nav>
+<section id="sobre">
+
+<section id="Quem nós somos?">
+
+<h2 style="color:blue;">Quem nós somos?</h2>
+<p> PontoTur é uma agência de turismo dedicada a transformar sonhos em experiências inesquecíveis. Fundada em 2015, com sede em São Paulo, nossa missão é proporcionar viagens personalizadas e memoráveis para cada um dos nossos clientes, sempre com o máximo de conforto e segurança.
+
+Nossa equipe é formada por profissionais apaixonados por viagens, com ampla experiência no setor e um profundo conhecimento dos destinos mais desejados ao redor do mundo. Estamos sempre prontos para oferecer um atendimento personalizado, entendendo as necessidades e desejos específicos de cada cliente para criar roteiros sob medida.</p>
+<h2 style="color:blue;">Por que Escolher a PontoTur?</h2>
+<p><p>•Atendimento Personalizado: Cada viagem é única, assim como cada viajante. Nossos consultores dedicam tempo para conhecer você e suas preferências, garantindo que cada detalhe do seu roteiro seja pensado para proporcionar a melhor experiência possível.</p>
+
+<p>•Experiência e Conhecimento: Com anos de atuação no mercado, a PontoTur possui uma rede de parceiros e fornecedores de confiança, garantindo os melhores preços e serviços de alta qualidade</p>
+
+<p>•Variedade de Destinos: Oferecemos uma ampla gama de destinos, desde exóticas praias tropicais e vibrantes metrópoles até tranquilas vilas históricas e deslumbrantes paisagens naturais.</p>
+
+<p>•Suporte Completo: Estamos ao seu lado em todas as etapas da sua viagem. Desde o planejamento inicial até o seu retorno para casa, nossa equipe está disponível para oferecer suporte e resolver qualquer imprevisto.</p>
+
